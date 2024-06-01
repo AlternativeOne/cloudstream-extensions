@@ -27,10 +27,10 @@ class HDrezkaProvider : MainAPI() {
     )
 
     override val mainPage = mainPageOf(
-        "$mainUrl/films/?filter=watching" to "фильмы",
-        "$mainUrl/series/?filter=watching" to "сериалы",
-        "$mainUrl/cartoons/?filter=watching" to "мультфильмы",
-        "$mainUrl/animation/?filter=watching" to "аниме",
+        "$mainUrl/films/?filter=watching" to "Фильмы",
+        "$mainUrl/series/?filter=watching" to "Сериалы",
+        "$mainUrl/cartoons/?filter=watching" to "Мультфильмы",
+        "$mainUrl/animation/?filter=watching" to "Аниме",
     )
 
     override suspend fun getMainPage(
