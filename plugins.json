@@ -1,0 +1,24 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hdrezka.me&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AlternativeOne/cloudstream-extensions",
+        "fileSize": 24282,
+        "status": 1,
+        "language": "All",
+        "authors": [
+            "Hexated",
+            "AlternativeOne"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "HDrezkaProvider",
+        "url": "https://raw.githubusercontent.com/AlternativeOne/cloudstream-extensions/builds/HDrezkaProvider.cs3",
+        "name": "HDrezkaProvider"
+    }
+]
