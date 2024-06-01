@@ -65,7 +65,6 @@ subprojects {
         }
     }
 
-
     dependencies {
         val apk by configurations
         val implementation by configurations
