@@ -17,7 +17,7 @@ class HDrezkaProvider : MainAPI() {
     override var mainUrl = "https://hdrezka.me"
     override var name = "HDrezka"
     override val hasMainPage = true
-    override var lang = "ru"
+    override var lang = "all"
     override val hasDownloadSupport = true
     override val supportedTypes = setOf(
         TvType.Movie,
