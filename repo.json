@@ -1,0 +1,8 @@
+{
+    "name": "ALternativeOne's repository",
+    "description": "Something something plugins.",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/AlternativeOne/cloudstream-extensions/builds/plugins.json"
+    ]
+  }
